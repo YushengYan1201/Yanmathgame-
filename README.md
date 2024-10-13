@@ -11,7 +11,7 @@
 - **Progress Tracking**: User progress is tracked across levels with a focus on continuous learning.
 
 ## File Structure
-
+```
 Yanmthgame/
 │
 ├── frontend/
@@ -20,7 +20,7 @@ Yanmthgame/
 └── backend/
     ├── progress.py  
     └── math.py  
-
+```
 ## Deployment
 
 The app is deployed and available at the following link: [YanMathGame App](https://joyyan.databutton.app/joyyan)
