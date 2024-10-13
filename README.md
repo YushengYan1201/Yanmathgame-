@@ -16,12 +16,10 @@ Yanmthgame/
 │
 ├── frontend/
 │   ├── HomePage.tsx  
-│   └──  MathChallengeUI.tsx  
-│   
-│
+│   └── MathChallengeUI.tsx  
 └── backend/
-   ├── progress.py  
-   └── math.py  
+    ├── progress.py  
+    └── math.py  
 
 ## Deployment
 
