@@ -24,3 +24,4 @@ Yanmthgame/
 ## Deployment
 
 The app is deployed and available at the following link: [YanMathGame App](https://joyyan.databutton.app/joyyan)
+<img width="515" alt="preview" src="https://github.com/user-attachments/assets/19ce660f-7000-4970-844d-56716b40ea59">
