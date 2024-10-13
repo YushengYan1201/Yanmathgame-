@@ -1,8 +1,7 @@
 
 # YanMathGame
 
-**YanMathGame** is an educational mobile application designed to make high school math learning engaging and interactive. The app uses a game-like structure where students solve math problems in categories like algebra, trigonometry, geometry, arithmetic, and calculus. It includes features such as difficulty levels, point scoring, and badges for achievements to motivate students to continue learning.
-
+**YanMathGame** is an educational mobile application designed to make high school math learning engaging and interactive. It uses a game-like structure where students solve math problems in categories like algebra, geometry, and calculus. It features multiple learning modes, such as practice challenges and quizzes, along with a life-based system that motivates students by rewarding progress. The interface is user-friendly, and the app provides personalized learning paths and progress tracking, helping students identify areas for improvement.
 ## Features
 
 - **Interactive Math Challenges**: Solve problems across five topics: algebra, geometry, trigonometry, arithmetic, and calculus.
